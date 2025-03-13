@@ -40,11 +40,11 @@ Heute habe ich mich informiert was man als nächstes Projekt anfangen könnte un
 Ich habe Heute mit meiner KI angefangen und ich bin auch schon sehr weit gekommen aber irgendwie habe ich es nicht geschaft das der Textbot kommuniziert es gab immer einen Fehler heraus. Nächstes mal werde ich versuchen diesen Fehler zu beheben. Ich habe beschlossen das ich keine schwerere Variante des Chatbots machen werde sondern nur die mit der API, weil es ein zu grosser Zeitaufwand wäre. Ich habe dann noch einen Moodle Test gemacht.
 
 ## 7.03.25
-- [x] Mit der API KI anfangen.
-- [x] Heraus finden ob eine schwerere Variante als der API Chatbot schafbar ist
-- [x] 114 Test oder Aufträge lösen
+- [x] Den Chatbot fertigstellen
+- [x] Datensatz für das Modul 259
+- [ ] 114 Test oder Aufträge lösen
  
 ## Reflexion
 
-Ich habe Heute mit meiner KI angefangen und ich bin auch schon sehr weit gekommen aber irgendwie habe ich es nicht geschaft das der Textbot kommuniziert es gab immer einen Fehler heraus. Nächstes mal werde ich versuchen diesen Fehler zu beheben. Ich habe beschlossen das ich keine schwerere Variante des Chatbots machen werde sondern nur die mit der API, weil es ein zu grosser Zeitaufwand wäre. Ich habe dann noch einen Moodle Test gemacht.
+
 
