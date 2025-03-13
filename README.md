@@ -30,9 +30,21 @@ Heute habe ich an 2 Modulen gearbeitet und mir auch ein wenig gedankend darüber
 ## Reflexion
 Heute habe ich mich informiert was man als nächstes Projekt anfangen könnte und ich konnte mich echt nicht entscheiden was ich genau machen wollte. Dann ist mir der gedanke gekommen das ein eigener Chatbot interessant wäre und weil wir gerade auch ein Machine Learning Modul haben finde ich das gerade sehr passend. ich habe mich informiert wie ich es am besten umsetzen könnte und was für Arten es genau gibt. Ich werde versuchen und mich mal herantasten eine kleine KI zu programmieren die ein paar Fragen beantworten kann, da ich mir aber noch nicht sicher bin wie alles praktisch aussehen wird und wie der Schwierigkeitsgrad ausehen wird, weiss ich nicht genau ob ich es schaffen werde aber ich kann es ja versuchen. Es ist klar das ich keine Volltrainierte KI programmieren kann aber ein paar Fragen können denke ich schon möglich sein. Ich habe mir dazu auch Videos angesehen und mir überlegt wie es genau funktionieren kann. Es würde auch nur mit einer API gehen aber ich glaube das wäre zu leicht. Es gibt aber auch noch die Variante in dem ich ihn selber trainieren müsste und ich wüsste nicht genau wie. Ich wäre nächste Woche dann versuchen mit dem anzufangen und mich mal herantasten.
 
-## 21.02.25
-- [ ] Mit der API KI anfangen.
-- [ ] Heraus finden ob eine schwerere Variante als der API Chatbot schafbar ist
-- [ ] 114 Test oder Aufträge lösen
+## 28.02.25
+- [x] Mit der API KI anfangen.
+- [x] Heraus finden ob eine schwerere Variante als der API Chatbot schafbar ist
+- [x] 114 Test oder Aufträge lösen
  
 ## Reflexion
+
+Ich habe Heute mit meiner KI angefangen und ich bin auch schon sehr weit gekommen aber irgendwie habe ich es nicht geschaft das der Textbot kommuniziert es gab immer einen Fehler heraus. Nächstes mal werde ich versuchen diesen Fehler zu beheben. Ich habe beschlossen das ich keine schwerere Variante des Chatbots machen werde sondern nur die mit der API, weil es ein zu grosser Zeitaufwand wäre. Ich habe dann noch einen Moodle Test gemacht.
+
+## 7.03.25
+- [x] Mit der API KI anfangen.
+- [x] Heraus finden ob eine schwerere Variante als der API Chatbot schafbar ist
+- [x] 114 Test oder Aufträge lösen
+ 
+## Reflexion
+
+Ich habe Heute mit meiner KI angefangen und ich bin auch schon sehr weit gekommen aber irgendwie habe ich es nicht geschaft das der Textbot kommuniziert es gab immer einen Fehler heraus. Nächstes mal werde ich versuchen diesen Fehler zu beheben. Ich habe beschlossen das ich keine schwerere Variante des Chatbots machen werde sondern nur die mit der API, weil es ein zu grosser Zeitaufwand wäre. Ich habe dann noch einen Moodle Test gemacht.
+
