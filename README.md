@@ -58,17 +58,17 @@ Heute habe ich den Chatbot erfolgreich fertiggestellt und den Datensatz für das
 Heute habe ich Lernvideos über Python geschaut, weil wir die Programmiersprache gerade im Modul 259 brauchen und aktiv nutzen müssen. Ich finde Python ist eine sehr coole und nicht all zu schwere Sprache was mir sehr gefällt. Ich habe mich dann auch noch mit Jupyter beschäftigt, weil ich ein paar Probleme auf dem Laptop hatte. Die konnte ich aber beseitigen.
 
 ## 21.03.25
-- [x] Den Chatbot fertigstellen
-- [x] Datensatz für das Modul 259
-- [ ] 114 Test oder Aufträge lösen
+- [x] Mit Chat-GPT Python üben
+- [x] Python Lernvideos schauen
+- [ ] Neues Projekt?
 
 ## Reflexion
 
 
 ## 28.03.25
-- [x] Den Chatbot fertigstellen
-- [x] Datensatz für das Modul 259
-- [ ] 114 Test oder Aufträge lösen
+- [x] 
+- [x] 
+- [ ] 
 
 ## Reflexion
 
