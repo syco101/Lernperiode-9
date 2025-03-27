@@ -43,8 +43,32 @@ Ich habe Heute mit meiner KI angefangen und ich bin auch schon sehr weit gekomme
 - [x] Den Chatbot fertigstellen
 - [x] Datensatz für das Modul 259
 - [ ] 114 Test oder Aufträge lösen
- 
+
+## Reflexion
+
+Heute habe ich den Chatbot erfolgreich fertiggestellt und den Datensatz für das Modul 259 vorbereitet. Dabei konnte ich wichtige technische Details umsetzen und strukturierte Daten erfassen. Tests oder Aufträge im Modul 114 habe ich Heute nicht gelöst.
+
+## 14.03.25
+- [x] Python Lernvideos schauen
+- [x] Mehr über Jupyter erfahren
+- [ ] 114 Test oder Aufträge lösen
+
+## Reflexion
+
+Heute habe ich Lernvideos über Python geschaut, weil wir die Programmiersprache gerade im Modul 259 brauchen und aktiv nutzen müssen. Ich finde Python ist eine sehr coole und nicht all zu schwere Sprache was mir sehr gefällt. Ich habe mich dann auch noch mit Jupyter beschäftigt, weil ich ein paar Probleme auf dem Laptop hatte. Die konnte ich aber beseitigen.
+
+## 21.03.25
+- [x] Den Chatbot fertigstellen
+- [x] Datensatz für das Modul 259
+- [ ] 114 Test oder Aufträge lösen
+
 ## Reflexion
 
 
+## 28.03.25
+- [x] Den Chatbot fertigstellen
+- [x] Datensatz für das Modul 259
+- [ ] 114 Test oder Aufträge lösen
+
+## Reflexion
 
