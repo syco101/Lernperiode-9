@@ -63,12 +63,20 @@ Heute habe ich Lernvideos über Python geschaut, weil wir die Programmiersprache
 - [ ] Neues Projekt?
 
 ## Reflexion
-
+Ich habe mit Chat-GPT Python gelernt. Ich habe Probleme gelöst und Fragen beantwortet. Er gab mir Code Fragmente und ich musste sie richtig coden. Ich habe dann wieder 1 Lernvideo geschaut und ich habe mir überlegt das ich ein Schach Spiel programmieren will für das nächste mal.
 
 ## 28.03.25
-- [x] 
-- [x] 
-- [ ] 
+- [x] Mit Chat-GPT Python üben
+- [x] Python Lernvideos schauen
+- [ ] Informieren wie ich ein Schachspiel machen kann
+
+## Reflexion
+Ich war Krank, werde es in den Ferien nach arbeiten.
+
+## 04.04.25
+- [ ] Mich informieren wie ich einen Art Gegner programmieren kann.
+- [ ] Basis Code programmieren für die Funktionen
+- [ ] Das Design verbessern
 
 ## Reflexion
 
