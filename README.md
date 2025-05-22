@@ -7,11 +7,11 @@ In dieser Lernperiode möchte ich evtl meine Website fertig machen und ein neues
 
 ## Noten in dieser Periode
 
-
+114: -, 347: 4
 
 ## Gewollte Noten:
 
-
+114: 5.5-6 347: 4.5-5
 
 ## 14.02.25
 - [x] Mit dem Modul 295 weiter machen
@@ -66,17 +66,21 @@ Heute habe ich Lernvideos über Python geschaut, weil wir die Programmiersprache
 Ich habe mit Chat-GPT Python gelernt. Ich habe Probleme gelöst und Fragen beantwortet. Er gab mir Code Fragmente und ich musste sie richtig coden. Ich habe dann wieder 1 Lernvideo geschaut und ich habe mir überlegt das ich ein Schach Spiel programmieren will für das nächste mal.
 
 ## 28.03.25
-- [x] Mit Chat-GPT Python üben
-- [x] Python Lernvideos schauen
-- [ ] Informieren wie ich ein Schachspiel machen kann
+- [ ] Mit Chat-GPT Python üben
+- [x] Schachbasis holen für das Program
+- [x] Informieren wie ich ein Schachspiel machen kann
 
 ## Reflexion
-Ich war Krank, werde es in den Ferien nach arbeiten.
+Heute habe ich mich informiert wie ich genau ein Schachspiel programmiern kann und ob es zu kompliziert wäre oder nicht. Dazu habe ich auf Youtube recherchiert aber viele machen es mit C# aber ich habe 1 in python gefunden. Ich habe Bilder online Heruntergelden für die Figuren und ich habe dazu passende farben ausgewählt. Ich habe dann auch alles vorbereitet für das nächste mal damit ich direkt beginnen kann.
 
 ## 04.04.25
-- [ ] Mich informieren wie ich einen Art Gegner programmieren kann.
-- [ ] Basis Code programmieren für die Funktionen
+- [x] Mich informieren wie ich einen Art Gegner programmieren kann.
+- [x] Basis Code programmieren für die Funktionen
 - [ ] Das Design verbessern
 
 ## Reflexion
+
+Ich habe mich informiert wie ich einen Gegner programmieren kann aber ich habe mich schlussendlich dafür entschieden keinen Gegner zu machen. Es soll ein Schachspiel werden das man in echt 1 v 1 spielen kann. Ich habe dann auch mit dem Basis code angefangen gehabt. Ich habe jetzt ein Startmenu, ich sehe das Schachbrett und alle Figuren. Ich kann die Schachfiguren bewegen aber leider haben sie noch keine Spiellogik oder mein Spiel selber hat besser gesagt noch keine Spiellogik. 
+
+
 
